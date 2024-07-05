@@ -1,0 +1,14 @@
+- Poster resmi
+- Film adı
+- Yayın tarihi
+- Puan
+- Kısa bir özet
+Kullanıcı, bir filme tıkladığında ayrıntılı bilgi sayfasına yönlendirilebilir (örneğin, yönetmen, oyuncular, fragman) 
+NOT:  API DE YONETMEN VE FRAGMAN OLMADIĞINDAN BUNLAR EKLENMEDİ
+api:
+20384d97a60b1bc7703ffa54852f1607
+
+
+
+erişim jetonu
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMDM4NGQ5N2E2MGIxYmM3NzAzZmZhNTQ4NTJmMTYwNyIsIm5iZiI6MTcyMDA5Njk2OC44Mzg4NjIsInN1YiI6IjY2ODY5NzE3Zjc3YWQ2M2MwNjI1OTkxMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.1FqqitRjN_lzQHuToOVdFKheidFVm0LOoreMkStIotw
